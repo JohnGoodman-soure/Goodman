@@ -35,7 +35,7 @@
     </div>
 
     <script>
-        const unlockDate = new Date('2025-06-30T08:00:00').getTime();
+        const unlockDate = new Date('2025-06-30T08:00:00');
         const redirectUrl = "https://drive.google.com/file/d/1iyEBXO7nPSxBXqfzammhR-pQQtz8lM-c/view?pli=1)"
 
         function updateCountdown() {
