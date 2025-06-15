@@ -29,13 +29,13 @@
 <body>
     <div id="content">
         <div id="before-date">
-            <h1>Conto alla rovescia</h1>
+            <h1>Il contenuto sarà disponibile tra:</h1>
             <div class="countdown" id="countdown-timer">--:--:--:--</div>
         </div>
     </div>
 
     <script>
-        const unlockDate = new Date('2025-06-30T08:00:00');
+        const unlockDate = new Date('2025-06-30T13:00:00');
         const redirectUrl = "https://drive.google.com/file/d/1iyEBXO7nPSxBXqfzammhR-pQQtz8lM-c/view?pli=1)"
 
         function updateCountdown() {
