@@ -1,4 +1,3 @@
-# Ciao-bimba
 <!DOCTYPE html>
 <html lang="it">
 <head>
@@ -36,7 +35,7 @@
 
     <script>
         const unlockDate = new Date('2025-06-30T13:00:00');
-        const redirectUrl = "https://drive.google.com/file/d/1iyEBXO7nPSxBXqfzammhR-pQQtz8lM-c/view?pli=1)"
+        const redirectUrl = "https://drive.google.com/file/d/1iyEBXO7nPSxBXqfzammhR-pQQtz8lM-c/view?pli=1";
 
         function updateCountdown() {
             const now = new Date().getTime();
