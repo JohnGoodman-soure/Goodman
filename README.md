@@ -31,7 +31,7 @@
 </head>
 <body>
     <div id="content">
-        <h2>Ciao bimba</h2>
+        <h2>Bimba, sapevo che non mi avresti ascoltato</h2>
         <div id="before-date">
             <h1>Il contenuto sarà disponibile tra:</h1>
             <div class="countdown" id="countdown-timer">--:--:--:--</div>
